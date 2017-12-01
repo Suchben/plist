@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/Suchben/plist/master/Customer-Naisi.ipa</string>
+					<string>https://github.com/Suchben/plist/releases/download/app/Customer-Naisi.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
